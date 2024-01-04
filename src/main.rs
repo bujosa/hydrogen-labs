@@ -1,3 +1,9 @@
+use codegen::generate_functions;
+
+generate_functions!("./example.json");
+
 fn main() {
-    println!("Hello, world!");
+   fun1();
+   fun2();
+   fun3();
 }

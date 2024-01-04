@@ -1,4 +1,6 @@
-# Coding Challenge: Procedural Macro for Dynamic Rust Code Generation from JSON - Hydrogen Labs
+# Hydrogen Labs
+
+### Coding Challenge: Procedural Macro for Dynamic Rust Code Generation from JSON 
 
 ## Objective
 Create a Rust procedural macro that reads a JSON file and generates Rust functions based on its contents. The challenge is dynamically creating Rust functions at compile time, based on the names specified in a JSON file. This should take you 1-3 hours to complete.
@@ -24,6 +26,7 @@ Each entry in the "methods" array is a string representing a function name.
 ## Function Implementation: 
 Each generated function should print a simple message to the console, indicating it has been called. For example, calling fun1() should print something like "Function fun1 called".
 
+![Alt text](image.png)
 
 You should be producing something to this effect. 
 
