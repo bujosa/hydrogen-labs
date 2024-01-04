@@ -2,7 +2,7 @@
 
 ## Challenge description
 
-Read the [challenge.md](challenge.md) file.
+Read the [challenge.md](./docs/challenge.md) file.
 
 ## Codegen Solution
 

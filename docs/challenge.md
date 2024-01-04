@@ -26,7 +26,7 @@ Each entry in the "methods" array is a string representing a function name.
 ## Function Implementation: 
 Each generated function should print a simple message to the console, indicating it has been called. For example, calling fun1() should print something like "Function fun1 called".
 
-![Alt text](image.png)
+![Alt text](challenge_implementation_example.png)
 
 You should be producing something to this effect. 
 
